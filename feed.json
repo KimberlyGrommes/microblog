@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://kimberlykg.micro.blog/2026/05/15/being-at-pyconus-makes-me.html",
+				
+				"content_html": "<p>Being at PyConUS makes me think I need to find more local tech meetups to attend. Talking with humans in real life about tech is rather fun.</p>\n",
+				"content_text": "Being at PyConUS makes me think I need to find more local tech meetups to attend. Talking with humans in real life about tech is rather fun. \n",
+				"date_published": "2026-05-15T14:41:29-07:00",
+				"url": "https://kimberlykg.com/2026/05/15/being-at-pyconus-makes-me.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://kimberlykg.micro.blog/2026/05/13/im-down-in-long-beach.html",
+				
+				"content_html": "<p>I&rsquo;m down in Long Beach this week for PyCon. It&rsquo;s beautiful here. Walking around near the shore reminds me of living in San Diego but that feels like it happened about a million years ago.</p>\n<p>I&rsquo;m looking forward to the conference though. (Not being in my house is good too.)</p>\n",
+				"content_text": "I'm down in Long Beach this week for PyCon. It's beautiful here. Walking around near the shore reminds me of living in San Diego but that feels like it happened about a million years ago.\n\nI'm looking forward to the conference though. (Not being in my house is good too.)\n",
+				"date_published": "2026-05-13T21:08:48-07:00",
+				"url": "https://kimberlykg.com/2026/05/13/im-down-in-long-beach.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://kimberlykg.micro.blog/2026/05/09/my-lap-is-cold.html",
 				"title": "My lap is cold. ",
 				"content_html": "<p>The two young cats went to live with their other owner up in Washington today for an as yet undetermined amount of time.</p>\n<p>Completing tasks will be easier but I&rsquo;m sure going to miss them. No adorable creature warming my lap every time I sit down. No fuzz ball laying on my back looking over my shoulder while I do laundry or the dishes. No kitty stretching up to ask to be carried upstairs at bedtime.</p>\n<p>Meh.</p>\n",
