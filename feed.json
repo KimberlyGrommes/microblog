@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://kimberlykg.micro.blog/2026/06/22/i-keep-composing-posts-in.html",
+				
+				"content_html": "<p>I keep composing posts in my head but I can&rsquo;t seem to sit in front of the computer any longer than necessary lately.</p>\n<p>Life is generally pretty good though, gratefully.</p>\n",
+				"content_text": "I keep composing posts in my head but I can't seem to sit in front of the computer any longer than necessary lately. \n\nLife is generally pretty good though, gratefully. \n",
+				"date_published": "2026-06-22T23:05:31-07:00",
+				"url": "https://kimberlykg.com/2026/06/22/i-keep-composing-posts-in.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://kimberlykg.micro.blog/2026/05/15/being-at-pyconus-makes-me.html",
 				
 				"content_html": "<p>Being at PyConUS makes me think I need to find more local tech meetups to attend. Talking with humans in real life about tech is rather fun.</p>\n",
