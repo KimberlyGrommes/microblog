@@ -99,8 +99,8 @@
 			{
 				"id": "http://kimberlykg.micro.blog/2026/06/24/232945.html",
 				
-				"content_html": "<img src=\"uploads/2026/3ab04e87a3.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
-				"content_text": "<img src=\"uploads/2026/3ab04e87a3.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_html": "<img src=\"https://kimberlykg.com/uploads/2026/3ab04e87a3.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "<img src=\"https://kimberlykg.com/uploads/2026/3ab04e87a3.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2026-06-24T23:29:45-07:00",
 				"url": "https://kimberlykg.com/2026/06/24/232945.html",
 				"tags": ["Microposts"]
@@ -162,8 +162,8 @@
 			{
 				"id": "http://kimberlykg.micro.blog/2026/05/04/sandia-mountains-from-the-east.html",
 				"title": "Sandia Mountains, from the east",
-				"content_html": "<p>The Sandia mountains, as visible from Sandia Park, New Mexico. I love that mountain.</p>\n<img src=\"uploads/2026/mymountain.jpg\" width=\"600\" height=\"224\" alt=\"Auto-generated description: A vast landscape features a panoramic view of forested hills leading up to a distant mountain range under a partly cloudy sky.\">\n",
-				"content_text": "The Sandia mountains, as visible from Sandia Park, New Mexico. I love that mountain.\n\n<img src=\"uploads/2026/mymountain.jpg\" width=\"600\" height=\"224\" alt=\"Auto-generated description: A vast landscape features a panoramic view of forested hills leading up to a distant mountain range under a partly cloudy sky.\">\n",
+				"content_html": "<p>The Sandia mountains, as visible from Sandia Park, New Mexico. I love that mountain.</p>\n<img src=\"https://kimberlykg.com/uploads/2026/mymountain.jpg\" width=\"600\" height=\"224\" alt=\"Auto-generated description: A vast landscape features a panoramic view of forested hills leading up to a distant mountain range under a partly cloudy sky.\">\n",
+				"content_text": "The Sandia mountains, as visible from Sandia Park, New Mexico. I love that mountain.\n\n<img src=\"https://kimberlykg.com/uploads/2026/mymountain.jpg\" width=\"600\" height=\"224\" alt=\"Auto-generated description: A vast landscape features a panoramic view of forested hills leading up to a distant mountain range under a partly cloudy sky.\">\n",
 				"date_published": "2026-05-04T23:29:45-07:00",
 				"url": "https://kimberlykg.com/2026/05/04/sandia-mountains-from-the-east.html",
 				"tags": ["Longform"]
