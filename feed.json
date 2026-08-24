@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://kimberlykg.micro.blog/2026/08/24/watched-spiderman-brand-new-day.html",
+				
+				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/969681\">Spider-Man: Brand New Day</a> 🍿</p>\n<p>We went to see this yesterday morning. Great movie.</p>\n",
+				"content_text": "Watched: [Spider-Man: Brand New Day](https://www.themoviedb.org/movie/969681) 🍿\n\nWe went to see this yesterday morning. Great movie. \n",
+				"date_published": "2026-08-24T10:58:12-07:00",
+				"url": "https://kimberlykg.com/2026/08/24/watched-spiderman-brand-new-day.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://kimberlykg.micro.blog/2026/08/22/it-was-a-good-day.html",
 				
 				"content_html": "<p>It was a good day. Delicious food, stitchy time with friends, phone calls from both kids, kind wishes from several remote friends and a lovely evening with my sweet husband. A nice way to celebrate my birthday.</p>\n",
@@ -126,8 +135,8 @@
 			{
 				"id": "http://kimberlykg.micro.blog/2026/07/19/seeing-the-odyssey-in-mm.html",
 				
-				"content_html": "<p>Seeing The Odyssey in 70 mm is well worth it.</p>\n<img src=\"https://kimberlykg.com/uploads/2026/6be73c4438.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
-				"content_text": "Seeing The Odyssey in 70 mm is well worth it.\n\n<img src=\"https://kimberlykg.com/uploads/2026/6be73c4438.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_html": "<p>Seeing The Odyssey in 70 mm is well worth it.</p>\n<img src=\"uploads/2026/6be73c4438.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "Seeing The Odyssey in 70 mm is well worth it.\n\n<img src=\"uploads/2026/6be73c4438.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2026-07-19T18:21:27-07:00",
 				"url": "https://kimberlykg.com/2026/07/19/seeing-the-odyssey-in-mm.html",
 				"tags": ["Microposts"]
