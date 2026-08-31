@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://kimberlykg.micro.blog/2026/08/30/watched-terminator-judgment-day-this.html",
+				
+				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/280\">Terminator 2: Judgment Day</a> 🍿</p>\n<p>This was showing at the local theater today for the 35th anniversary. I still remember being so freaked out by the special effects in the original showing. We opted to sit in the DBox seats today for the first time. I suspect there&rsquo;s some movie where that adds to the experience, but it seemed like more of a distraction than anything.</p>\n",
+				"content_text": "Watched: [Terminator 2: Judgment Day](https://www.themoviedb.org/movie/280) 🍿\n\nThis was showing at the local theater today for the 35th anniversary. I still remember being so freaked out by the special effects in the original showing. We opted to sit in the DBox seats today for the first time. I suspect there's some movie where that adds to the experience, but it seemed like more of a distraction than anything.\n",
+				"date_published": "2026-08-30T20:49:54-07:00",
+				"url": "https://kimberlykg.com/2026/08/30/watched-terminator-judgment-day-this.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://kimberlykg.micro.blog/2026/08/24/watched-spiderman-brand-new-day.html",
 				
 				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/969681\">Spider-Man: Brand New Day</a> 🍿</p>\n<p>We went to see this yesterday morning. Great movie.</p>\n",
@@ -45,8 +54,8 @@
 			{
 				"id": "http://kimberlykg.micro.blog/2026/08/18/235910.html",
 				
-				"content_html": "<img src=\"uploads/2026/c97f0d14fe.jpg\" alt=\"A dog watching late night TV.\">\n",
-				"content_text": "<img src=\"uploads/2026/c97f0d14fe.jpg\" alt=\"A dog watching late night TV.\">\n",
+				"content_html": "<img src=\"https://kimberlykg.com/uploads/2026/c97f0d14fe.jpg\" alt=\"A dog watching late night TV.\">\n",
+				"content_text": "<img src=\"https://kimberlykg.com/uploads/2026/c97f0d14fe.jpg\" alt=\"A dog watching late night TV.\">\n",
 				"date_published": "2026-08-18T23:59:10-07:00",
 				"url": "https://kimberlykg.com/2026/08/18/235910.html",
 				"tags": ["Microposts"]
@@ -135,8 +144,8 @@
 			{
 				"id": "http://kimberlykg.micro.blog/2026/07/19/seeing-the-odyssey-in-mm.html",
 				
-				"content_html": "<p>Seeing The Odyssey in 70 mm is well worth it.</p>\n<img src=\"uploads/2026/6be73c4438.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
-				"content_text": "Seeing The Odyssey in 70 mm is well worth it.\n\n<img src=\"uploads/2026/6be73c4438.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_html": "<p>Seeing The Odyssey in 70 mm is well worth it.</p>\n<img src=\"https://kimberlykg.com/uploads/2026/6be73c4438.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "Seeing The Odyssey in 70 mm is well worth it.\n\n<img src=\"https://kimberlykg.com/uploads/2026/6be73c4438.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2026-07-19T18:21:27-07:00",
 				"url": "https://kimberlykg.com/2026/07/19/seeing-the-odyssey-in-mm.html",
 				"tags": ["Microposts"]
