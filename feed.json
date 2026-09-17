@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://kimberlykg.micro.blog/2026/09/17/the-amount-of-time-im.html",
+				
+				"content_html": "<p>The amount of time I&rsquo;m spending talking about dev metrics lately is frustrating. Tokens used, AI dollar spend, cycle time&hellip; I figured out this week that we&rsquo;re not even consistently measuring these things within our little part of the company let alone across the org.</p>\n<p>If I thought any of this gave them insight they could actually use maybe I&rsquo;d be less annoyed.</p>\n",
+				"content_text": "The amount of time I'm spending talking about dev metrics lately is frustrating. Tokens used, AI dollar spend, cycle time... I figured out this week that we're not even consistently measuring these things within our little part of the company let alone across the org. \n\nIf I thought any of this gave them insight they could actually use maybe I'd be less annoyed. \n",
+				"date_published": "2026-09-17T00:16:15-07:00",
+				"url": "https://kimberlykg.com/2026/09/17/the-amount-of-time-im.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://kimberlykg.micro.blog/2026/09/14/watched-star-trek-strange-new.html",
+				
+				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/tv/103516/season/4/episode/5\">Star Trek: Strange New Worlds S4E5, Level-Five Transporter Accident</a> 🍿</p>\n<p>Ok, this was entirely silly, but also hilarious. :)</p>\n",
+				"content_text": "Watched: [Star Trek: Strange New Worlds S4E5, Level-Five Transporter Accident](https://www.themoviedb.org/tv/103516/season/4/episode/5) 🍿\n\nOk, this was entirely silly, but also hilarious. :) \n",
+				"date_published": "2026-09-14T21:59:09-07:00",
+				"url": "https://kimberlykg.com/2026/09/14/watched-star-trek-strange-new.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://kimberlykg.micro.blog/2026/09/14/the-experiment-is-working.html",
 				"title": "The experiment is working",
 				"content_html": "<p>As a follow-up to <a href=\"https://kimberlykg.com/2026/07/12/a-plan-coming-together.html\">this post</a>, I&rsquo;m happy to say that we&rsquo;re continuing with the third session for the remainder of the year at least. There are some small changes I think we need to make to make this series easier to coordinate and the new plan sustainable, but the general idea seems to be meeting the goals from what we can tell so far.</p>\n<p>When I showed up for the first of the extra sessions that I was scheduled to assist, I walked in to find the expected instructor, but also a second instructor and a second assistant. A couple minutes later another instructor showed up. Then another assistant. Then another. We ended up having eight (!!!) people that help with the class for the five students. I am still chuckling about it a few weeks later. I guess everyone involved in putting this class together is really excited about the change!</p>\n<p>The student reviews have been great. It&rsquo;s nice that they finish the class with a nice little project.</p>\n",
