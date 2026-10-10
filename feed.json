@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://kimberlykg.micro.blog/2026/10/09/i-went-outside-earlier-to.html",
+				
+				"content_html": "<p>I went outside earlier to find this. It&rsquo;s not usually quite so loud.</p>\n<p><video controls src=\"https://cdn.uploads.micro.mov/179738/2026/1305/playlist.m3u8\" width=\"1080\" height=\"1920\" poster=\"https://cdn.uploads.micro.blog/179738/2026/frames/1874507-0-a904f8.jpg\"></video></p>\n",
+				"content_text": "I went outside earlier to find this. It's not usually quite so loud. \n\n<video controls src=\"https://cdn.uploads.micro.mov/179738/2026/1305/playlist.m3u8\" width=\"1080\" height=\"1920\" poster=\"https://cdn.uploads.micro.blog/179738/2026/frames/1874507-0-a904f8.jpg\"></video>\n",
+				"date_published": "2026-10-09T15:53:10-07:00",
+				"url": "https://kimberlykg.com/2026/10/09/i-went-outside-earlier-to.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://kimberlykg.micro.blog/2026/10/08/please-dont-be-true.html",
+				"title": "Please don't be true ",
+				"content_html": "<p>I heard an unverified rumor about the amount of money a local company is spending on Cursor each month and it keeps rattling around in my brain. It&rsquo;s the kind of number that feels like someone, rather multiple someones, should lose their jobs over. I think that would be true at half that rumored number as well.</p>\n<p>There is just no way the company is going to get anywhere near that in return.</p>\n<p>Some might argue that it&rsquo;s an investment towards the future (If we don&rsquo;t know how to use AI, our competitors will pass us by!!!), but there still has to be SOME sense applied, right?!</p>\n",
+				"content_text": "I heard an unverified rumor about the amount of money a local company is spending on Cursor each month and it keeps rattling around in my brain. It's the kind of number that feels like someone, rather multiple someones, should lose their jobs over. I think that would be true at half that rumored number as well. \n\nThere is just no way the company is going to get anywhere near that in return.\n\nSome might argue that it's an investment towards the future (If we don't know how to use AI, our competitors will pass us by!!!), but there still has to be SOME sense applied, right?!\n",
+				"date_published": "2026-10-08T16:25:05-07:00",
+				"url": "https://kimberlykg.com/2026/10/08/please-dont-be-true.html",
+				"tags": ["Longform"]
+			},
+			{
 				"id": "http://kimberlykg.micro.blog/2026/10/08/every-morning-this-week-i.html",
 				
 				"content_html": "<p>Every morning this week, I wake up to a text message from a different number offering to give me money for my business. &ldquo;Just text the amount you need!&rdquo;</p>\n",
